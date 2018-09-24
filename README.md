@@ -1,8 +1,6 @@
-# DecisionTree
-DECISION TREE
+#DECISION TREE
 ======
 The code of decision tree in python, and use dataset from UCI Machine Learning Dataset to test Post-Pruning Strategy.
-
 
 Requirements
 ======
@@ -10,7 +8,6 @@ Requirements
 ---
 *python 3.5+<br>
 *Pycharm with these Project Interpreters: numpy, pandas, scikit-learn, scipy.<br>
-
 
 Usage
 ===
